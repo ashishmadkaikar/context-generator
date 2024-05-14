@@ -1,0 +1,10 @@
+pdfplumber
+paddlepaddle
+paddleocr
+PyQt6
+psycopg2-binary
+psycopg2
+transformers
+openai
+fpdf
+python-dotenv
